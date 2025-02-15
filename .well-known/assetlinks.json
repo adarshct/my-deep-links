@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "com.example.share_app",
+    "package_name": "com.example.share_app",
+    "sha256_cert_fingerprints": ["4AnW8a8QcKLXKU1UY7neWPYPupYN35XJdRTnSf525nFVQ4oYnF8BSVrGRT1hKzPusP5PS7pJzkDbBZoosSydENe9CUjhCMX"]
+  }
+}]
